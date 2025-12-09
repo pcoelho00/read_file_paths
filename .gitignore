@@ -1,0 +1,14 @@
+# Binaries
+file_paths
+
+# Output files
+file_paths.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
